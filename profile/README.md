@@ -13,7 +13,12 @@ Our mission is to educate, connect enthusiasts, and practice AI and Data Science
 2. **Hands-On Workshops** - (on-site/free) - Targeted at everyone who wants to expand their skillset in the technologies offered in the workshops. 🛠️📚
 3. **Collaborative Projects** - Aimed at those who want to gain practical experience in Real World Data projects and those who feel the need to share knowledge or mentor newcomers. Students can work with practitioners to gain experience, while company practitioners can discover "hidden gems". Employers have the space to present their companies by delegating their engaged experts. 🌟🤝
 
+## Social media 🌐
 
+- [LinkedIn](https://www.linkedin.com/company/wait-wro/about/) 💼
+- [Meetup](https://www.meetup.com/wait-wroclaw-ai-team/) 📅
+- [Facebook](https://www.facebook.com/profile.php?id=61557741131583) 📘
+- [Discord](https://discord.gg/4S4fHkQM) 🎧
 
 
 
